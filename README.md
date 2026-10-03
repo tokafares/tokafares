@@ -41,13 +41,13 @@ Frontend / full-stack developer building fast, accessible web apps with **React,
 
 ### GamerSense: League of Legends training & quiz platform
 
-<a href="https://github.com/tokafares/Gamer-Sense"><img src="https://raw.githubusercontent.com/tokafares/Gamer-Sense/main/docs/screenshots/landing.png" alt="GamerSense landing page" width="100%"></a>
+<a href="https://gamersense-touka.vercel.app"><img src="https://tokafares.vercel.app/screenshots/gamersense/landing.webp" alt="GamerSense landing page" width="100%"></a>
 
-My main project. A chess.com-style trainer for League of Legends game sense: scenario quizzes, a timed blitz mode, real-time 1v1 trivia duels, Guess the Rank, a champion knowledge hub, per-lane ranks and a leaderboard.
+My main project. A chess.com-style trainer for League of Legends game sense: scenario quizzes, a timed blitz mode, real-time 1v1 trivia duels, Guess the Rank, a champion knowledge hub, XP levels, per-lane ranks and a leaderboard.
 
 **Tech:** React 19 · TypeScript · Vite · Tailwind CSS · Framer Motion · Zustand · Fastify · Prisma · PostgreSQL · Redis · Socket.io
 
-[Code](https://github.com/tokafares/Gamer-Sense)
+[Live demo](https://gamersense-touka.vercel.app) · [Code](https://github.com/tokafares/Gamer-Sense) · _Live demo runs without the backend; 1v1 duels need the game server_
 
 ---
 
